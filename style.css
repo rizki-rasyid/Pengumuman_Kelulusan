@@ -68,10 +68,16 @@ button:hover {
 }
 
 #hasilKelulusan {
-    margin-top: 20px;
+    margin-top: 5px;
     font-size: 1.1rem;
     font-weight: bold;
     word-wrap: break-word;
+}
+
+#hasilKelulusan img {
+    max-width: 120px;
+    height: auto;
+    margin-bottom: 0px;
 }
 
 @media (max-width: 600px) {
