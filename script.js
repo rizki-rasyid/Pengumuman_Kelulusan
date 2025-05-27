@@ -78,7 +78,7 @@ form.addEventListener("submit", function(event) {
     if (dataSiswa[nomorUjian]) {
         const siswa = dataSiswa[nomorUjian];
         hasil.innerHTML = `
-            <img src:"assets/foto_siswa/${siswa.foto}" alt="Foto ${siswa.nama}">
+            <img src:"assets/nama_siswa/${siswa.foto}" alt="Foto ${siswa.nama}">
             <p>Nama: <strong>${siswa.nama}</strong></p>
             <p>Status Kelulusan: <strong style="color: ${siswa.status === 'LULUS' ? 'green' : 'red'}">${siswa.status}</strong></p>
             <p style="color: #444">Selamat ${siswa.nama} ! Kamu dinyatakan lulus</p>
