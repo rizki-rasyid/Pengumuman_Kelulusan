@@ -19,7 +19,7 @@ const dataSiswa = {
     "06-010-037-018-09": { nama: "MICHAEL SIHOMBING", status: "LULUS"},
     "06-010-037-019-01": { nama: "MUHAMMAD IRPAN", status: "LULUS"},
     "06-010-037-020-02": { nama: "MUHAMMAD WENDA PAIRUS", status: "LULUS"},
-    "06-010-037-021-03": { nama: "NADIL SAPUTRA", status: "TIDAK LULUS"},
+    "06-010-037-021-03": { nama: "NADIL SAPUTRA", status: "LULUS"},
     "06-010-037-022-04": { nama: "NOPRIZAL", status: "LULUS"},
     "06-010-037-023-05": { nama: "NUR AHMAD", status: "LULUS"},
     "06-010-037-024-06": { nama: "ONLI SIHOMBING", status: "LULUS"},
