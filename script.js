@@ -1,5 +1,5 @@
 const dataSiswa = {
-    "06-010-037-001-01": { nama: "AFGIAN", status: "LULUS", foto: "logo.png" },
+    "06-010-037-001-01": { nama: "AFGIAN", status: "LULUS", foto: "background.jpg" },
     "06-010-037-002-02": { nama: "AL QORIATUL FATIMAH", status: "LULUS", foto: "AL QORIATUL FATIMAH.png"},
     "06-010-037-003-03": { nama: "ALPIA ZAPIRA", status: "LULUS", foto: "ALPIA ZAPIRA.png"},
     "06-010-037-004-04": { nama: "AYIDIL FIRMANZA", status: "LULUS", foto: "AYIDIL FIRMANZA.png"},
