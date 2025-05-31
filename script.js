@@ -33,7 +33,7 @@ const dataSiswa = {
     "06-010-037-032-05": { nama: "ZIA NADINDA", status: "LULUS", foto: "ZIA_NADINDA.png"}, 
     "06-010-037-033-06": { nama: "AFVRIO ARIDIKA", status: "LULUS", foto: "AFVRIO_ARIDIKA.png"}, 
     "06-010-037-034-07": { nama: "AMRI PAKPAHAN", status: "LULUS", foto: "AMRI_PAKPAHAN.png"}, 
-    "06-010-037-035-08": { nama: "ANDIKA PRATAMA SARAGIH", status: "LULUS", foto: "ANDIKA_PRATAMA_SARAGIH.png"}, 
+    "06-010-037-035-08": { nama: "ANDIKA PRATAMA SARAGIH", status: "LULUS", foto: "ANDIKA_PRATAMA.png"}, 
     "06-010-037-036-09": { nama: "ANGEL SANTAULINA SIHOMBING", status: "LULUS", foto: "ANGEL_SANTAULINA_SIHOMBING.png"}, 
     "06-010-037-037-01": { nama: "APRIZAL SAPUTRA", status: "LULUS", foto: "APRIZAL_SAPUTRA.png"}, 
     "06-010-037-038-02": { nama: "ARIL SAPUTRA", status: "LULUS", foto: "ARIL_SAPUTRA.png"}, 
